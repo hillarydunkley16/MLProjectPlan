@@ -19,12 +19,12 @@ To run this program you need to import:
 
 Below are all of the import statements from our program: 
 
-import pandas as pd
-import numpy as np
-import os 
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split 
-from sklearn.metrics import log_loss
-from sklearn.metrics import accuracy_score
+1. import pandas as pd
+2. import numpy as np
+3. import os 
+4. import matplotlib.pyplot as plt
+5. import seaborn as sns
+6. from sklearn.linear_model import LogisticRegression
+7. from sklearn.model_selection import train_test_split 
+8. from sklearn.metrics import log_loss
+8. from sklearn.metrics import accuracy_score
